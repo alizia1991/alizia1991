@@ -1,6 +1,7 @@
 **👋 Hi there! I'm Syed Ali Zia**
 
 **🔧 Full-Stack Developer | Solutions Architect | Tech Enthusiast**
+
 With over **12 years of experience** in software development and architectural design, I am passionate about building scalable, robust, and user-centric applications. My expertise spans a wide range of technologies and frameworks, enabling me to deliver end-to-end solutions that drive business success.
 
 **🚀 What I Do:**
