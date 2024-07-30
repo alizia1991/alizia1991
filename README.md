@@ -1,4 +1,4 @@
-**👋 Hi there! I'm Syed Ali Zia**
+<h1>**👋 Hi there! I'm Syed Ali Zia**</h1>
 
 **🔧 Full-Stack Developer | Solutions Architect | Tech Enthusiast**
 
